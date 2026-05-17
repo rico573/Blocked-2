@@ -1,0 +1,55 @@
+{
+  "keywords": [
+    "free-traffic",
+    "seo-fast",
+    "rankboost",
+    "trafficbot",
+    "clickboost",
+    "seo-traffic",
+    "bot-traffic",
+    "ranker",
+    "autotraffic"
+  ],
+  "blocked_domains": [
+    "spokeo.com",
+    "geona.com",
+    "ifacnet.com",
+    "social-searcher.com",
+    "web.stagram.com",
+    "everyclick.com"
+  ],
+  "blocked_ips": [
+    "13.48.104.68",
+    "18.231.102.104"
+  ],
+  "whitelist_ips": [
+    "192.177.68.133",
+    "192.177.85.15",
+    "166.88.119.125",
+    "192.177.68.188",
+    "192.177.71.175",
+    "192.177.68.52"
+  ],
+  "blocked_tlds": [
+    "xyz",
+    "click",
+    "asia",
+    "info",
+    "forum",
+    "site"
+  ],
+  "bot_whitelist": [
+    "googlebot",
+    "bingbot",
+    "facebookexternalhit",
+    "facebot",
+    "gptbot",
+    "chatgpt",
+    "openai",
+    "claudebot",
+    "anthropic",
+    "perplexity",
+    "bytespider",
+    "ccbot"
+  ]
+}
